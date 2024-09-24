@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiasluduena23&show_icons=true&theme=tokyonight) ![Codewars](https://github.r2v.ch/codewars?user=matiasluduena&theme=gradient_midnight_puple_by_level&hide_clan=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiasluduena23&show_icons=true&theme=tokyonight) ![Codewars](https://github.r2v.ch/codewars?user=matiasluduena&theme=purple_dark&hide_clan=true)
 
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
